@@ -1,0 +1,8 @@
+# ninja log v5
+0	414	1624087117788470536	src/com.berkd.celery.p/Main.c	87f7f3eb35f7a89
+0	414	1624087117788470536	src/com.berkd.celery.p/Application.c	87f7f3eb35f7a89
+0	414	1624087117788470536	src/com.berkd.celery.p/Widgets/Window.c	87f7f3eb35f7a89
+415	1133	1624087118573476732	src/com.berkd.celery.p/meson-generated_Application.c.o	9933ab124091367d
+414	1138	1624087118577476764	src/com.berkd.celery.p/meson-generated_Main.c.o	4085b3b0d5058fe8
+415	1140	1624087118582476803	src/com.berkd.celery.p/meson-generated_Widgets_Window.c.o	ec813a8c14c429a1
+1140	1229	1624087118673477521	src/com.berkd.celery	7a3869509ddd8584

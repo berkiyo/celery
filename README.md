@@ -1,2 +1,2 @@
 # celery
-Yet another compound interest app
+A fancy compound interest app for Linux, currently work in progress...

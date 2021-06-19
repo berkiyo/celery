@@ -1,0 +1,11 @@
+Build started at 2021-06-19T17:11:07.382963
+Main binary: /usr/bin/python3
+Build Options: -Dbuildtype=debug
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/berk/Projects/celery
+Build dir: /home/berk/Projects/celery/builddir
+Build type: native build
+
+ERROR: No statements in code.
